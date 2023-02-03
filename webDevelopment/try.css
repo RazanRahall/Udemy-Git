@@ -1,0 +1,12 @@
+
+h3 { color: green;}
+#orange { color: orange;}
+/*this class is to make the bacground yellow not gray hahaha*/
+.gray{background-color:yellow;}
+p{font-family:"Brush Script MT", cursive; font-size:30px;color:rgb(178, 100, 145);background-color:#efe8cb;}
+h2{font-family:Copperplate, Papyrus, fantasy; font-size:xx-large; font-weight:900;text-align:center;}
+h1{font-weight:600; font-style:italic;}
+table, th, td{border:4px solid rgb(136, 55, 150); border-collapse:collapse;}
+img{float:right;}
+
+.changeColor{color:rgb(119, 55, 150);}
